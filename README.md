@@ -4,3 +4,5 @@ mail password for email extraction
 oxlryjmecogfynqr
 yahoo mail password
 wsjhhyoeikslpryu
+mailgun api key
+4f207195-897b118c
